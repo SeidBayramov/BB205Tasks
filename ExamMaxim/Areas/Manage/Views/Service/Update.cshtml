@@ -1,0 +1,23 @@
+﻿@using ExamMaxim.Areas.Manage.ViewModels;
+@model ServiceUpdateVm
+<form method="post" enctype="multipart/form-data">
+    <div class="row">
+        <div class="mb-3 col-md-3">
+            <label asp-for="Title" class="form-label">Title</label>
+            <input asp-for="Title" class="form-control" />
+            <span asp-validation-for="Title" style="color:rebeccapurple"></span>
+        </div>
+        <div class="mb-3 col-md-3">
+            <label asp-for="Description" class="form-label">Description</label>
+            <input asp-for="Description" class="form-control" />
+            <span asp-validation-for="Description" style="color:rebeccapurple"></span>
+        </div>
+        <div class="mb-3 col-md-3">
+            <label asp-for="IconUrl" class="form-label">IconUrl</label>
+            <input asp-for="IconUrl" class="form-control" />
+            <span asp-validation-for="IconUrl" style="color:rebeccapurple"></span>
+        </div>
+
+    </div>
+    <button type="submit" asp-action="Update" asp-controller="Service" class="btn btn-primary">Create</button>
+</form>

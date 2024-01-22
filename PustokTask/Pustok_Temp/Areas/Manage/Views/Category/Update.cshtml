@@ -1,0 +1,33 @@
+﻿@model CreateCategoryVM
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Update Category</h4>
+                        <form method="post">
+                            <div class="form-group">
+                                <label asp-for="Name">Name</label>
+                                <input type="text" class="form-control" asp-for="Name" placeholder="Name">
+                                <span asp-validation-for="Name" style="color:red"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="ParentCategoryId">Parent Category</label>
+                                <select asp-for="ParentCategoryId" class="form-select">
+                                    <option value="null">Choose Category</option>
+                                    @foreach (var category in Model.categories)
+                                    {
+                                        <option value="@category.Id">@category.Name</option>
+                                    }
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,34 @@
+﻿@using IndigoTemplateTask.Areas.Manage.VIewModels
+@model CreateProductVm
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="TItle" class="form-label">Name</label>
+                <input asp-for="TItle" class="form-control">
+                <span asp-validation-for="TItle" style="color:red"></span>
+            </div>
+            </div>
+        <div class="row align-items-center">
+            <div class="mb-3 col-md-6">
+                <label asp-for="Description" class="form-label">Description</label>
+                <textarea class="form-control" asp-for="Description" rows="4"></textarea>
+                <span asp-validation-for="Description" style="color:red"></span>
+
+            </div>
+
+            <div class="row">
+                <div class="mb-3 col-md-6">
+                    <label asp-for="Image" class="form-label">Photo</label>
+                    <input asp-for="Image" class="form-control">
+                    <span asp-validation-for="Image" style="color:red"></span>
+                </div>
+
+            </div>
+
+        </div>
+
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

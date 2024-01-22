@@ -1,0 +1,50 @@
+﻿@using Pustok_Temp.Models;
+@model List<Book>
+@{
+    int count = 0;
+}
+<div class="container">
+    <div class="d-flex" style="justify-content:space-between;align-items:center">
+        <h1>Book</h1>
+        <a class="btn btn-primary" asp-controller="Book" asp-action="Create">Create</a>
+
+    </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">No#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Price</th>
+                <th scope="col">Authors Name</th>
+                <th scope="col">Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+
+                    <td>@item.Title</td>
+                    <td>@item.Price</td>
+                    <td>@item.Authors.Name</td> 
+
+
+                    <td>
+                        <div style="width:100px">
+                            <img width="100%" src="~/Upload/BookImage/@item.ImgUrl">
+                        </div>
+                    </td>
+                    <td>
+                        <a class="btn btn-secondary" asp-controller="Book" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger" asp-controller="Book" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

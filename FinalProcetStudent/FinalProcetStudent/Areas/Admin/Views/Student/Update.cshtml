@@ -1,0 +1,49 @@
+﻿@model FinalProcetStudent.Areas.Admin.ViewModel.UpdateStudentVm
+
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="Name" class="form-label">Name</label>
+                <input asp-for="Name" class="form-control">
+                <span asp-validation-for="Name" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Surname" class="form-label">Surname</label>
+                <input asp-for="Surname" class="form-control">
+                <span asp-validation-for="Surname" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="UserName" class="form-label">Username</label>
+                <input asp-for="UserName" class="form-control">
+                <span asp-validation-for="UserName" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Age" class="form-label">Age</label>
+                <input asp-for="Age" class="form-control">
+                <span asp-validation-for="Age" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Point" class="form-label">Point</label>
+                <input asp-for="Point" class="form-control">
+                <span asp-validation-for="Point" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="BornTime" class="form-label">Born Time</label>
+                <input asp-for="BornTime" class="form-control">
+                <span asp-validation-for="BornTime" style="color:red"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="mb-3 col-md-6">
+                <img class="img-fluid" src="~/Upload/Student/@(Model.StudentsImagesVms.FirstOrDefault(p => p.IsPrime == true)?.ImgUrl)" />
+                <label asp-for="Image" class="form-label">Photo</label>
+                <input asp-for="Image" type="file" class="form-control">
+                <span asp-validation-for="Image" style="color:red"></span>
+            </div>
+        </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

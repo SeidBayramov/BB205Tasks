@@ -1,0 +1,44 @@
+﻿<div class="section hero text-center background-dark dark-bg">
+    <div class="background-image" style="background: url(images/hero.jpg) no-repeat center center; background-size: cover; opacity: .2;"></div>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2>SERXAN' class  </h2>
+                <p class="lead">Welcome your class Serxan</p>
+                <ul class="list-inline">
+                       <li><a asp-area="Admin" asp-action="Index" asp-controller="Student" class="btn btn-md btn-primary"> Go stundent list</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h2 class="section-title">Contact Us</h2>
+                <p class="section-description">Laudantium ullam consequatur repellat debitis maxime.</p>
+            </div>
+            <div class="col-md-8 col-md-offset-2">
+                <form id="contact" method="post" class="form" role="form">
+                    <div class="row">
+                        <div class="col-md-6 form-group">
+                            <input class="form-control" id="name" name="name" placeholder="Name" type="text" required />
+                        </div>
+                        <div class="col-md-6 form-group">
+                            <input class="form-control" id="email" name="email" placeholder="Email" type="email" required />
+                        </div>
+                    </div>
+                    <textarea class="form-control" id="message" name="message" placeholder="Message" rows="5"></textarea>
+                    <br />
+                    <div class="row">
+                        <div class="col-md-12 form-group">
+                            <button class="btn btn-primary" type="submit">Submit</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div><!--/.row-->
+    </div><!--/.container-->
+</div>
+<!--/.section -->

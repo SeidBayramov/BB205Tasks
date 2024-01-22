@@ -1,0 +1,103 @@
+﻿@model AdminVM
+@{
+    var count = 0;
+}
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Book Table</h4>
+                <a class="btn btn-primary" asp-controller="Book" asp-action="Create">Create</a>
+                <div class="table-responsive pt-3">
+                    <table class="table table-bordered table-striped">
+                        <thead>
+                            <tr>
+                                <th>
+                                    No:
+                                </th>
+                                <th>
+                                    Title
+                                </th>
+                                <th>
+                                    Description
+                                </th>
+                                <th>
+                                    Author
+                                </th>
+                                <th>
+                                    Book Code
+                                </th>
+                                <th>
+                                    Price
+                                </th>
+                                <th>
+                                    Category
+                                </th>
+                                <th>
+                                    Tag
+                                </th>
+                                <th>
+                                    Image
+                                </th>
+                                <th>
+                                    Actions
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model.books)
+                            {
+                                count++;
+                                <tr>
+                                    <td>
+                                        @count
+                                    </td>
+                                    <td>
+                                        @item.Title
+                                    </td>
+                                    <td>
+                                        @item.Description
+                                    </td>
+                                    <td>
+                                        @item.Author
+                                    </td>
+                                    <td>
+                                        @item.BookCode
+                                    </td>
+                                    <td>
+                                        @item.Price
+                                    </td>
+                                    <td>
+                                        @item.Category.Name
+                                    </td>
+                                    <td>
+                                        @{
+                                            var count2 = 0;
+                                        }
+                                        @foreach (var bookTag in item.BookTags)
+                                        {
+                                            count2++;
+                                            @(item.BookTags.Count() != count2 ? bookTag.Tag.Name + ", " : bookTag.Tag.Name + "")
+                                        }
+                                    </td>
+                                    <td>
+                                        <div style="width:100px">
+                                            <img width="100%" src="~/Upload/BookImage/@item.BookImages.FirstOrDefault(p=>p.IsPrime==true)?.ImgUrl">
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <div class="btn-group">
+                                            <a class="btn btn-secondary" asp-controller="Book" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                                            <a class="btn btn-danger" asp-controller="Book" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

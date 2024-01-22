@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Pustok_Temp.props" />
+</Project>

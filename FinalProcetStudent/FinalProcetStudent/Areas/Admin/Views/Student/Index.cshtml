@@ -1,0 +1,63 @@
+﻿@using FinalProcetStudent.Models
+@model List<Student>
+
+@{
+    int count = 0;
+    int tagcount = 0;
+}
+<div class="container">
+    <div class="d-flex" style="justify-content:space-between;align-items:center">
+        <h1>Students</h1>
+        <a class="btn btn-primary" asp-controller="Student" asp-action="Create">Create</a>
+
+    </div>
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">No#</th>
+                <th scope="col">Name</th>
+                <th scope="col">Surname</th>
+                <th scope="col">UserName</th>
+                <th scope="col">Age</th>
+                <th scope="col">Point</th>
+                <th scope="col">BornTime</th>
+
+                <th scope="col">Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+
+                    <td>@item.Name</td>
+                    <td>@item.Surname</td>
+                    <td>@item.UserName</td>
+                    <td>@item.Age</td>
+                    <td>@item.Point</td>
+                    <td>@item.BornTime</td>
+
+
+
+                    <td>
+                        <div style="width:100px">
+                            <img width="100%;height:150px" src="~/Upload/Student/@item.StudentImages.FirstOrDefault(p=>p.IsPrime==true)?.ImgUrl">
+                        </div>
+                    </td>
+
+
+                    <td>
+                        <a class="btn btn-secondary" asp-controller="Student" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger item-delete" asp-controller="Student" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

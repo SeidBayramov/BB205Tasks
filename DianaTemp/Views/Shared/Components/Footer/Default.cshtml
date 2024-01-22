@@ -1,0 +1,80 @@
+﻿@model Dictionary<string,string>
+
+<footer class="footer-area bg-color-222">
+    <div class="footer-top-area">
+        <div class="container">
+            <div class="footer-widget-wrap row">
+                <div class="col">
+                    <!--== Start widget Item ==-->
+                    <div class="widget-item">
+                        <div class="footer-logo-area">
+                            <a href="index.html">
+                                <img class="logo-main" src="~/assets/img/logo-light.png" alt="Logo" />
+                            </a>
+                        </div>
+                        <p>People have been using natural objects, such as tree stumps, rocks and moss, as furniture since the beginning of human civilisation.</p>
+                        <p>@Model["Address"]</p>
+                        <p>@Model["Phone"]</p>
+                        <p>@Model["Email"]</p>
+                    </div>
+                    <!--== End widget Item ==-->
+                </div>
+
+                <div class="col">
+                    <!--== Start widget Item ==-->
+                    <div class="widget-item">
+                        <h4 class="widget-title">Quick Link</h4>
+                        <div class="widget-menu-wrap">
+                            <ul class="nav-menu">
+                                <li><a href="page-search.html">Search</a></li>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="contact.html">Contact</a></li>
+                                <li><a href="shipping-policy.html">Shipping policy</a></li>
+                                <li><a href="wishlist.html">Wishlist</a></li>
+                                <li><a href="shop.html">All Products</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--== End widget Item ==-->
+                </div>
+
+                <div class="col">
+                    <!--== Start widget Item ==-->
+                    <div class="widget-item">
+                        <h4 class="widget-title">Information</h4>
+                        <div class="widget-menu-wrap">
+                            <ul class="nav-menu">
+                                <li><a asp-action="Login" asp-controller="Account">Login</a></li>
+                                <li><a href="#/">My Account</a></li>
+                                <li><a href="#/">Terms & Conditions</a></li>
+                                <li><a href="shop-shipping-policy.html">Shipping policy</a></li>
+                                <li><a href="shop-checkout.html">Payment System</a></li>
+                                <li><a href="#/">Promotional Offers</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!--== End widget Item ==-->
+                </div>
+
+                <div class="col">
+                    <!--== Start widget Item ==-->
+                    <div class="widget-item">
+                        <h4 class="widget-title">Follow us</h4>
+                        <div class="widget-menu-wrap">
+                            <ul class="nav-menu">
+                                <ul class="nav-menu">
+                                    <li><a href="@Model.GetValueOrDefault("FaceBook", "#")">Facebook</a></li>
+                                    <li><a href="@Model.GetValueOrDefault("Twitter", "#")">Twitter</a></li>
+                                    <li><a href="@Model.GetValueOrDefault("Instagram", "#")">Instagram</a></li>
+                                    <li><a href="@Model.GetValueOrDefault("LinkedIn", "#")">LinkedIn</a></li>
+                                    <li><a href="#">YouTube</a></li>
+                                </ul>
+
+                            </ul>
+                        </div>
+                    </div>
+                    <!--== End widget Item ==-->
+                </div>
+            </div>
+        </div>
+    </div>

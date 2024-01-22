@@ -1,0 +1,22 @@
+﻿@using JofExam.Areas.Manage.ViewModel
+@model FruitCreateVm
+<form method="post" enctype="multipart/form-data">
+    <div class="row">
+    <div class="mb-3 col-md-3">
+        <label asp-for="Name" class="form-label">Name</label>
+        <input asp-for="Name" class="form-control">
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+        <div class="mb-3 col-md-3">
+        <label asp-for="SubTitle" class="form-label">SubTitle</label>
+        <input asp-for="SubTitle" class="form-control">
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+        <div class="mb-3 col-md-3">
+        <label asp-for="Image" class="form-label">Image</label>
+        <input asp-for="Image" class="form-control">
+        <span asp-validation-for="Image" style="color:red"></span>
+    </div>
+    </div>
+    <button type="submit" class="btn btn-primary">Create</button>
+</form>

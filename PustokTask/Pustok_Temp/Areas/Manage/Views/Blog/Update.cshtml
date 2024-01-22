@@ -1,0 +1,71 @@
+﻿@model UpdateBlogVM
+<div class="main-panel">
+    <div class="content-wrapper">
+        <div class="row">
+            <div class="col-md-12 grid-margin stretch-card">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Upate Blog</h4>
+                        <form method="post" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label asp-for="Title">Title</label>
+                                <input type="text" class="form-control" asp-for="Title" placeholder="Title">
+                                <span asp-validation-for="Title" style="color:red"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="Description">Description</label>
+                                <input type="text" class="form-control" asp-for="Description" placeholder="Description">
+                                <span asp-validation-for="Description" style="color:red"></span>
+                            </div>
+                            <div class="row align-items-center">
+                                <div class="mb-3 col-md-4">
+                                    <img src="~/Upload/BlogImages/@Model.BlogImagesVm.FirstOrDefault(p=>p.IsPrime==true)?.ImgUrl" />
+                                    <label asp-for="MainPhoto" class="form-label">MainPhoto</label>
+                                    <input class="form-control" asp-for="MainPhoto">
+                                    <span asp-validation-for="MainPhoto" style="color:red"></span>
+                                </div>
+                                <div class="mb-3 col-md-4">
+                                    <img src="~/Upload/BlogImages/@Model.BlogImagesVm.FirstOrDefault(p=>p.IsPrime==false)?.ImgUrl" />
+                                    <label asp-for="HoverPhoto" class="form-label">HoverPhoto</label>
+                                    <input class="form-control" asp-for="HoverPhoto">
+                                    <span asp-validation-for="HoverPhoto" style="color:red"></span>
+                                </div>
+                            </div>
+                            <div class="row">
+                                @foreach (var item in Model.BlogImagesVm.Where(p => p.IsPrime == null).ToList())
+                                {
+
+                                    <div class="col-2 position-relative">
+                                        <img style="width:100%;height:150px" src="~/Upload/BlogImages/@item.ImgUrl" />
+                                        <input type="hidden" value="@item.Id" name="ImageIds" />
+                                        <button type="button" class="btn btn-danger position-absolute custom-delete" style="right:10px">X</button>
+                                    </div>
+                                }
+                                <label asp-for="Photos" class="form-label">Additional Photos</label>
+                                <input class="form-control" asp-for="Photos">
+                                <span asp-validation-for="Photos" style="color:red"></span>
+
+                            </div>
+                            <div class="form-group">
+                                <label asp-for="TagIds">Tags</label>
+                                <select asp-for="TagIds" class="form-select" asp-items="new SelectList(ViewBag.Tags, nameof(Tag.Id), nameof(Tag.Name))">
+                                </select>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+@section DeleteFile{
+    <script>
+        let btn = document.querySelectorAll(".custom-delete")
+        btn.forEach(b => {
+            b.addEventListener("click", function () {
+                b.parentElement.remove()
+            })
+        })
+    </script>
+}

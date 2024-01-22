@@ -1,0 +1,46 @@
+﻿@using Pustok_Temp.ViewModels.ProiniaSite.ViewModel;
+@model List<BasketItemVM>
+@{
+    double Total = 0;
+}
+
+<div class="cart-dropdown-block">
+    <div class=" single-cart-block ">
+       @foreach (var item in Model)
+        {
+            Total += item.Price * item.Count;
+            <div class="cart-total">
+
+                </div>
+        <div class="cart-product">
+            <a href="product-details.html" class="image">
+                <img src="~/Upload//BookImage/@item.ImgUrl" alt="">
+            </a>
+            <div class="content">
+                <h3 class="title">
+                    <a href="product-details.html">
+                       @item.Name
+                    </a>
+                </h3>
+                <p class="price"><span class="qty">@item.Count ×</span> @item.Price</p>
+                <button class="cross-btn"><i class="fas fa-times"></i></button>
+            </div>
+        </div>
+        <span class="price">
+            @Total 
+            <i class="fas fa-chevron-down"></i>
+        </span>
+        }
+    </div>
+    <div class=" single-cart-block ">
+        <div class="btn-block">
+            <a asp-action="Index" asp-controller="Basket" class="btn">
+                View Cart <i class="fas fa-chevron-right"></i>
+            </a>
+            <a asp-action="Index" asp-controller="Basket" class="btn btn--primary">
+                Check Out <i class="fas fa-chevron-right"></i>
+            </a>
+        </div>
+    </div>
+</div>
+@*<</div>*@

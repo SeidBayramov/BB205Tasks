@@ -1,0 +1,36 @@
+﻿@model LoginVM
+<main class="page-section inner-page-sec-padding-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-xs-12 col-lg-6 mb--30 mb-lg--0 mx-auto">
+                <form method="post">
+                    <div class="login-form">
+                        <p><span class="font-weight-bold">Login</span></p>
+                        <div class="row">
+                            <div class="col-md-12 col-12 mb--15">
+                                <label asp-for="UserNameOrEmail">Username Or Email</label>
+                                <input asp-for="UserNameOrEmail" class="mb-0 form-control" type="text" id="name"
+                                       placeholder="Enter your full name" />
+                                <span asp-validation-for="UserNameOrEmail" style="color:red"></span>
+                                <div class="col-md-12 col-12 mb--15">
+                                    <label asp-for="Password">Password</label>
+                                    <input asp-for="Password" class="mb-0 form-control" id="password" type="password" placeholder="Enter your Password" />
+                                    <span asp-validation-for="Password" style="color:red"></span>
+                                </div>
+
+                                <div class="col-md-12 mb--15">
+                                    <div class="form-check">
+                                        <input asp-for="IsRemember" class="form-check-input" id="rememberMe" />
+                                        <label asp-for="IsRemember" class="form-check-label" for="rememberMe">Remember me</label>
+                                    </div>
+                                </div>
+                                <div class="col-md-12 col-12 mb--15" asp-validation-summary="All">
+                                    <button asp-action="Login" type="submit" asp-controller="Account" class="btn btnbadge-outlined">Login</button>
+                                </div>
+                            </div>
+                        </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>

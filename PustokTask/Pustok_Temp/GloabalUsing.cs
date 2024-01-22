@@ -1,0 +1,9 @@
+﻿global using System.ComponentModel.DataAnnotations.Schema;
+global using System.ComponentModel.DataAnnotations;
+ global using Microsoft.EntityFrameworkCore;
+ global using Microsoft.Identity.Client;
+global using Pustok_Temp.ViewModels;
+global using Pustok_Temp.Areas.Manage.ViewModel;
+global using Pustok_Temp.DAL;
+global using Microsoft.AspNetCore.Mvc;
+global using Pustok_Temp.Models;

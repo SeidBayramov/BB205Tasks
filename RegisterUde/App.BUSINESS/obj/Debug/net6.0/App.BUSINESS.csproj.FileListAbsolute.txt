@@ -1,0 +1,102 @@
+C:\Users\II novbe\source\repos\App\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.deps.json
+C:\Users\II novbe\source\repos\App\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\source\repos\App\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\source\repos\App\App.BUSINESS\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\source\repos\App\App.BUSINESS\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\source\repos\App\App.BUSINESS\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\source\repos\App\App.BUSINESS\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CopyComplete
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\refint\App.BUSINESS.dll
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\source\repos\App\App.BUSINESS\obj\Debug\net6.0\ref\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.deps.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\bin\Debug\net6.0\App.CORE.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\bin\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CopyComplete
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\refint\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.BUSINESS\obj\Debug\net6.0\ref\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.deps.json
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\refint\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Desktop\Api_project\App.BUSINESS\obj\Debug\net6.0\ref\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.deps.json
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\bin\Debug\net6.0\App.CORE.dll
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\bin\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CopyComplete
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\refint\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.BUSINESS\obj\Debug\net6.0\ref\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.deps.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CopyComplete
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\refint\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.BUSINESS\obj\Debug\net6.0\ref\App.BUSINESS.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.deps.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.AssemblyReference.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfoInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.AssemblyInfo.cs
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.csproj.CopyComplete
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\refint\App.BUSINESS.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.BUSINESS\obj\Debug\net6.0\ref\App.BUSINESS.dll

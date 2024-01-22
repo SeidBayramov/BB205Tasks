@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Udemy.DAL\Udemy.DAL.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\StudentCourseDto\" />
+    <Folder Include="DTOs\TeacherDtos\" />
+    <Folder Include="DTOs\StudentDto\" />
+  </ItemGroup>
+
+</Project>

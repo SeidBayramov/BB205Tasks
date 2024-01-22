@@ -1,0 +1,45 @@
+﻿@using ExamAPP1.Entities;
+@model List<Blog>
+
+@{
+    int count = 0;
+
+}
+<div class="container">
+    <h1>Blog</h1>
+    <hr />
+    <a class="btn btn-primary" style="marigin-left:50%;" asp-action="Create" asp-controller="Blog"> Create</a>
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">No#</th>
+                <th scope="col">Title</th>
+                <th scope="col">Description</th>
+                <th scope="col">image</th>
+                <th scope="col">Operations</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+
+                    <td>
+                        <div style="width:100%">
+                            <img style="width:100px;height:100px; border-radius:50%" src="~/Upload/Blog/@item.ImageUrl">
+                        </div>
+                    </td>
+                    <td>
+                        <a class="btn btn-primary" style="marigin-left:90%;" asp-action="Create" asp-controller="Blog" asp-route-id="@item.Id"> Create</a>
+                        <a class="btn btn-warning item-delete" style="marigin-left:90%;" asp-action="Delete" asp-controller="Blog" asp-route-id="@item.Id"> Delete</a>
+                    </td>
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>

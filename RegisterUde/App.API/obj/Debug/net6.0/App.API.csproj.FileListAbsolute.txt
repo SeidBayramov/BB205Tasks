@@ -1,0 +1,466 @@
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\appsettings.json
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.API.exe
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.API.deps.json
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.API.runtimeconfig.json
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.API.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\scopedcss\bundle\App.API.styles.css
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.csproj.CopyComplete
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.dll
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\refint\App.API.dll
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\App.API.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\App\App.API\obj\Debug\net6.0\ref\App.API.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\II novbe\source\repos\App\App.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.API.exe
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.API.deps.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.API.runtimeconfig.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.API.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.API.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.CORE.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\staticwebassets\msbuild.App.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\staticwebassets\msbuild.build.App.API.props
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.API.props
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.API.props
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\scopedcss\bundle\App.API.styles.css
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.csproj.CopyComplete
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\refint\App.API.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\App.API.genruntimeconfig.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\obj\Debug\net6.0\ref\App.API.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\appsettings.json
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.API.exe
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.API.deps.json
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.API.runtimeconfig.json
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.API.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Desktop\Api_project\App.API\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\scopedcss\bundle\App.API.styles.css
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\refint\App.API.dll
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\App.API.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\Api_project\App.API\obj\Debug\net6.0\ref\App.API.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.API.exe
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.API.deps.json
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.API.runtimeconfig.json
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.API.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.API.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.CORE.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.API\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\staticwebassets\msbuild.App.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\staticwebassets\msbuild.build.App.API.props
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.API.props
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.API.props
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\scopedcss\bundle\App.API.styles.css
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.csproj.CopyComplete
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\refint\App.API.dll
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\App.API.genruntimeconfig.cache
+C:\Users\User\Desktop\Repos\Udemy\App.API\obj\Debug\net6.0\ref\App.API.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\appsettings.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.API.exe
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.API.deps.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.API.runtimeconfig.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.API.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\scopedcss\bundle\App.API.styles.css
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.csproj.CopyComplete
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\refint\App.API.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\App.API.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.API\obj\Debug\net6.0\ref\App.API.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\appsettings.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.API.exe
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.API.deps.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.API.runtimeconfig.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.API.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.BUSINESS.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.BUSINESS.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.csproj.AssemblyReference.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.AssemblyInfoInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.AssemblyInfo.cs
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\staticwebassets\msbuild.App.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\staticwebassets\msbuild.build.App.API.props
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.API.props
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.API.props
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\scopedcss\bundle\App.API.styles.css
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.csproj.CopyComplete
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\refint\App.API.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\App.API.genruntimeconfig.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.API\obj\Debug\net6.0\ref\App.API.dll

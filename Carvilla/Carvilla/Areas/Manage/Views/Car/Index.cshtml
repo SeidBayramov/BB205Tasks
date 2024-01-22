@@ -1,0 +1,46 @@
+﻿@{
+    int count = 0;
+}
+
+@model IEnumerable<Car>
+
+    <div class="container">
+        <h1>Cars</h1>
+<table class="table">
+    <a class="btn btn-primary" asp-action="Create"  asp-controller="Car">Create</a>
+    <thead class="thead-dark">
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Name</th>
+            <th scope="col">Description</th>
+                <th scope="col">Price</th>
+                <th scope="col">Image</th>
+                <th scope="col">Opeations</th>
+
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+            <th scope="row">@count</th>
+            <td>@item.Name</td>
+            <td>@item.Description</td>
+            <td>@item.Price</td>
+                <td>
+            <div style="width:100%;">
+                    <img style="width:100px;height:100px;border-radius:50%;" src="~/Upload/@item.ImageUrl">
+            </div>
+                </td>
+                <td>
+                        <a class="btn btn-secondary" asp-action="Update" asp-controller="Car" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger item-delete" asp-action="Delete" asp-controller="Car" asp-route-id="@item.Id">Delete</a>
+                </td>
+        </tr>
+            
+        }
+    </tbody>
+</table>
+</div>

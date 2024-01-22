@@ -1,0 +1,75 @@
+﻿@model AdminVM
+@{
+    var count = 0;
+}
+
+<div class="content-wrapper">
+    <div class="row">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Blog Table</h4>
+                <a class="btn btn-primary" asp-controller="Blog" asp-action="Create">Create</a>
+                <div class="table-responsive pt-3">
+                    <table class="table table-bordered">
+                        <thead>
+                            <tr>
+                                <th>
+                                    No:
+                                </th>
+                                <th>
+                                    Title
+                                </th>
+                                <th>
+                                    Description
+                                </th>
+                                <th>
+                                    Tag
+                                </th>
+                                <th>
+                                    Image
+                                </th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var item in Model.blogs)
+                            {
+                                count++;
+                                <tr class="table-info">
+                                    <td>
+                                        @count
+                                    </td>
+                                    <td>
+                                        @item.Title
+                                    </td>
+                                    <td>
+                                        @item.Description
+                                    </td>
+                                    <td>
+                                        @{
+                                            var count2 = 0;
+                                        }
+                                        @foreach (var bookTag in item.BlogTags)
+                                        {
+                                            count2++;
+                                            @(item.BlogTags.Count() != count2 ? bookTag.Tag.Name + ", " : bookTag.Tag.Name + "")
+                                        }
+                                    </td>
+                                    <td>
+                                        <div style="width:100px">
+                                            <img width=100% src="~/Upload/BlogImages/@item.BlogImages.FirstOrDefault(p=>p.IsPrime==true)?.ImgUrl">
+                                        </div>
+                                    </td>
+                                    <td>
+                                        <a class="btn btn-danger" asp-controller="Blog" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                                        <a class="btn btn-secondary" asp-controller="Blog" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                                    </td>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

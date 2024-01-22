@@ -1,0 +1,87 @@
+create database ReminderDBS
+use ReminderDBS
+
+
+create table Users(
+Id int primary key identity,
+Name nvarchar(50) not null,
+Surname nvarchar(50) not null,
+Password nvarchar(50) not null,
+PhoneNumber nvarchar(50) not null,
+ReminderId int foreign key references Reminders(Id)
+)
+
+
+create table Reminders(
+Id int primary key identity,
+Content nvarchar(50) not null,
+SendAt datetime,
+CreatedAt datetime,
+Updated datetime,
+MethodId int foreign key references Methods(ID)
+)
+
+create table Methods(
+Id int primary key identity,
+Name nvarchar(50) not null
+)
+
+
+
+INSERT INTO Methods (Name)
+VALUES
+    ('Email'),
+    ('Telegram')
+
+INSERT INTO Reminders (Content, SendAt, CreatedAt, Updated,MethodId)
+VALUES
+('Meeting with the team', '2023-11-10 09:00:00', '2023-11-05 15:30:00', NULL,1),('Buy groceries','2023-11-05 15:30:00', '2023-11-05 16:45:00', '2023-11-06 10:15:00',2),
+('Finish the project', '2023-11-10 09:00:00', '2023-11-06 10:15:00','2023-11-05 15:30:00',1)
+
+
+INSERT INTO Users (Name, Surname, Password, PhoneNumber,ReminderId)
+VALUES
+    ('Seid', 'Bayramov', 'seid2004', '+123456789',2),
+    ('Ferid', 'Alizade ', 'frdali20', '+994515888822',3),
+    ('Rufet', 'Quliyev', 'rftqly2', '+1112223333',1)
+
+
+
+select R.Content as reminder_content,R.SendAt reminder_countend,U.Name + ' ' + U.Surname AS FullName from Reminders as R
+Join Users AS U ON R.Id = U.ReminderId
+
+select  R.Id as ReminderId,R.Content as ReminderContent,R.SendAt as ReminderSendAt,R.CreatedAt as ReminderCreatedAt,R.Updated AS ReminderUpdated
+FROM Reminders AS R
+Join Users AS U ON R.Id = U.ReminderId
+
+
+
+select  U.Id AS UserId,U.Name AS UserName, R.Id as ReminderId,R.Content as ReminderContent,R.SendAt as ReminderSendAt,R.CreatedAt as ReminderCreatedAt,R.Updated AS ReminderUpdated
+FROM Reminders AS R
+JOIN Users AS U ON R.Id = U.ReminderId
+JOIN Methods AS M ON R.MethodId = M.Id
+Where M.Name='Email'
+
+
+
+
+create function AzerbaycanNumber (@phonenumber nvarchar(50))
+Returns nvarchar(50)
+as 
+Begin 
+Declare @formatNumber nvarchar(50);
+
+
+SET @phoneNumber = REPLACE(@phoneNumber, '+', '')
+
+if LEFT (@phonenumber,3)<>'994'
+Begin
+set @phonenumber='994'+@phonenumber
+End
+
+set @formatNumber=CONCAT('+',LEFT(@phoneNumber, 3), ' ', SUBSTRING(@phoneNumber, 4, 2), ' ', RIGHT(@phoneNumber, LEN(@phoneNumber) - 5))
+Return @formatNumber
+End
+
+
+select dbo.AzerbaycanNumber('994 51 588 85 25') as FormattedPhoneNumber

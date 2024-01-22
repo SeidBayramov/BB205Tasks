@@ -1,0 +1,9 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using DianaTemp.DAL;
+global using DianaTemp.Models;
+global using Microsoft.AspNetCore.Mvc;
+global using System.ComponentModel.DataAnnotations.Schema;
+global using System.ComponentModel.DataAnnotations;
+global using Microsoft.AspNetCore.Identity;
+global using DianaTemp.Helpers;
+global using DianaTemp.ViewModels;

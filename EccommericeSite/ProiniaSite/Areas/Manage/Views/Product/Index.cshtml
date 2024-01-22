@@ -1,0 +1,68 @@
+﻿@using ProiniaSite.Models
+@model List<Product>
+
+@{
+    int count = 0;
+    int tagcount = 0;
+}
+<div class="container">
+    <div class="d-flex" style="justify-content:space-between;align-items:center">
+        <h1>Products</h1>
+        <a class="btn btn-primary" asp-controller="Product" asp-action="Create">Create</a>
+
+    </div>
+
+    <span style='color:red'>@TempData["Error"]</span>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">No#</th>
+                <th scope="col">Name</th>
+                <th scope="col">SKU</th>
+                <th scope="col">Price</th>
+                <th scope="col">Category</th>
+                <th scope="col">Tags</th>
+                <th scope="col">Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+
+                    <td>@item.Name</td>
+                    <td>@item.SKU</td>
+                    <td>@item.Price</td>
+                    <td>@item.Category.Name</td>
+                    <td>
+                        @foreach (var pt in item.ProductTags)
+                        {
+                            tagcount++;
+
+                            @pt.Tag.Name@(item.ProductTags.Count==tagcount?"":", ")
+                            
+                        }
+
+                    </td>
+
+                    <td>
+                        <div style="width:100px">
+                            <img width="100%;height:150px" src="~/Upload/Product/@item.ProductImages.FirstOrDefault(p=>p.IsPrime==true)?.ImgUrl">
+                        </div>
+                    </td>
+
+
+                    <td>
+                        <a class="btn btn-secondary" asp-controller="Product" asp-action="Update" asp-route-id="@item.Id">Update</a>
+                        <a class="btn btn-danger item-delete" asp-controller="Product" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+</div>

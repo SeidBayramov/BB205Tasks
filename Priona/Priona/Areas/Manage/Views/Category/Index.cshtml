@@ -1,0 +1,45 @@
+﻿@using Priona.Core.Entity
+@model List<Category>
+@{
+    int count = 0;
+}
+
+
+<div class="container">
+    <div class="d-flex" style="justify-content:space-around;aligin-items:center">
+        <h1> Categories</h1>
+
+        <a class="btn btn-primary" asp-controller="Category" asp-action="Create"> Create </a> </td>
+
+        </div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">No#</th>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Product Count</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <th scope="row">@count</th>
+                     
+                    <td>@item.Id</td>
+                    <td>@item.Name</td>
+                    <td>@item.Products.Count</td>
+                    <td><a class="btn btn-secondary" asp-controller="Category" asp-action="Update" asp-route-id="@item.Id" >Update </a>
+
+                    <a class="btn btn-danger" asp-controller="Category" asp-action="Delete" asp-route-id="@item.Id"> Delete </a> </td>
+
+
+                </tr>
+
+            }
+        </tbody>
+    </table>
+</div>

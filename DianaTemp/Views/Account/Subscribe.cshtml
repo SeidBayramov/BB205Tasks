@@ -1,0 +1,19 @@
+﻿@{
+    ViewData["Title"] = "Subscription Result";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container mt-4">
+    <div class="text-center">
+        <h2 class="mb-4">@ViewBag.SuccessMessage</h2>
+
+        @if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+        {
+            <div class="alert alert-danger" role="alert">
+                <p>@ViewBag.ErrorMessage</p>
+            </div>
+        }
+
+        <p class="mt-4"><a href="/" class="btn btn-primary">Back to Home</a></p>
+    </div>
+</div>

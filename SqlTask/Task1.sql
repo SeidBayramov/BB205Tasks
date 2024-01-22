@@ -1,0 +1,32 @@
+CREATE DATABASE BB205
+
+USE BB205
+
+CREATE TABLE STUDENT(
+[Name] NVARCHAR(30) NOT NULL,
+Surname NVARCHAR(50) DEFAULT 'XXX',
+Age INT CHECK (Age >= 16),
+AvgPoint DECIMAL(5,2) CHECK(AvgPOINT >=0 AND AvgPoint<=100)
+)
+
+INSERT INTO Student (Name, Surname, Age, AvgPoint)
+VALUES ('SAID', 'BAYRAMOV', 19, 95.5),('RUFET','QULIYEV',18,80),('AYDAN','AGAYEVA',22,50),('RENA','BAYRAMOVA',23,78)
+
+
+SELECT * FROM STUDENT
+WHERE AvgPoint>51
+
+SELECT * 
+FROM Student
+WHERE AvgPoint > 51 AND AvgPoint < 90
+
+SELECT * 
+FROM Student 
+WHERE Name LIKE 'A%N'
+
+SELECT * 
+FROM Student 
+WHERE AvgPoint < 51 AND Age > 20;  
+
+
+

@@ -1,0 +1,27 @@
+﻿@model LoginVm
+
+<div class="container">
+    <div class="row" style="margin-left : 300px">
+        <div class="col-sm-12 col-md-12 col-lg-6 col-xs-12">
+            <form method="post">
+                <div class="login-form">
+                    <h4 class="login-title">Returning Customer</h4>
+                    <p><span class="font-weight-bold">I am a returning customer</span></p>
+                    <div class="row">
+                        <div class="col-md-12 col-12 mb--15">
+                            <label asp-for="EmailOrUserName">Enter Email or Username</label>
+                            <input asp-for="EmailOrUserName" class="mb-0 form-control" placeholder="Enter email or username here">
+                        </div>
+                        <div class="col-12 mb--20">
+                            <label asp-for="Password">Password</label>
+                            <input asp-for="Password" class="mb-0 form-control" placeholder="Enter your password">
+                        </div>
+                        <div class="col-md-12">
+                            <button asp-controller="Account" asp-action="Login" class="btn btn--primary" style="margin-left : 28%" type="submit">Login</button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,84 @@
+﻿@using Priona.Core.Entity
+@model List<Product>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Product Slider</title>
+
+    <!-- Add references to Swiper.js library -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+</head>
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="swiper-container product-slider">
+                    <div class="swiper-wrapper">
+                        @foreach (var item in Model)
+                        {
+                            <div class="swiper-slide product-item">
+                                <div class="product-img">
+                                    <a asp-action="Detail" asp-controller="Shop" asp-route-id="@item.Id">
+                                        <img class="primary-img"
+                                         src="~/Upload/Product/@(item.ProductImages?.FirstOrDefault(p => p.IsPrime==true)?.ImgUrl)"
+                                         alt="Product Image" />
+                                        <img class="secondary-img"
+                                         src="~/Upload/Product/@(item.ProductImages?.FirstOrDefault(p => p.IsPrime==false)?.ImgUrl)"
+                                         alt="Product Image" />
+                                    </a>
+                                    <div class="product-add-action">
+                                        <!-- Your action buttons here -->
+                                    </div>
+                                </div>
+                                <div class="product-content">
+                                    <a asp-action="Detail" asp-controller="Shop" asp-route-id="@item.Id">@item.Name</a>
+                                    <div class="price-box pb-1">
+                                        <span class="new-price">@item.Price</span>
+                                    </div>
+                                    <div class="rating-box">
+                                        <ul>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                            <li><i class="fa fa-star"></i></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                    </div>
+                    <!-- Add pagination and navigation if needed -->
+                    <div class="swiper-pagination"></div>
+                    <div class="swiper-button-next"></div>
+                    <div class="swiper-button-prev"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Add references to Swiper.js library -->
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <!-- Initialize Swiper -->
+    <script>
+        var swiper = new Swiper('.product-slider', {
+            slidesPerView: 3,
+            spaceBetween: 20,
+            navigation: {
+                nextEl: '.swiper-button-next',
+                prevEl: '.swiper-button-prev',
+            },
+            pagination: {
+                el: '.swiper-pagination',
+                clickable: true,
+            },
+        });
+    </script>
+
+</body>
+</html>

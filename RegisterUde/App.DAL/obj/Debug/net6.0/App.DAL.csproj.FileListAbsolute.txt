@@ -1,0 +1,102 @@
+C:\Users\II novbe\source\repos\App\App.DAL\bin\Debug\net6.0\App.DAL.deps.json
+C:\Users\II novbe\source\repos\App\App.DAL\bin\Debug\net6.0\App.DAL.runtimeconfig.json
+C:\Users\II novbe\source\repos\App\App.DAL\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\source\repos\App\App.DAL\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\source\repos\App\App.DAL\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\source\repos\App\App.DAL\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfo.cs
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CopyComplete
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\refint\App.DAL.dll
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\App.DAL.genruntimeconfig.cache
+C:\Users\II novbe\source\repos\App\App.DAL\obj\Debug\net6.0\ref\App.DAL.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\bin\Debug\net6.0\App.DAL.deps.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\bin\Debug\net6.0\App.DAL.runtimeconfig.json
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\bin\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\bin\Debug\net6.0\App.CORE.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\refint\App.DAL.dll
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\App.DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\Repos\Api_Ntire\App.DAL\obj\Debug\net6.0\ref\App.DAL.dll
+C:\Users\II novbe\Desktop\Api_project\App.DAL\bin\Debug\net6.0\App.DAL.deps.json
+C:\Users\II novbe\Desktop\Api_project\App.DAL\bin\Debug\net6.0\App.DAL.runtimeconfig.json
+C:\Users\II novbe\Desktop\Api_project\App.DAL\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\Api_project\App.DAL\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\Api_project\App.DAL\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Desktop\Api_project\App.DAL\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CopyComplete
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\refint\App.DAL.dll
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\App.DAL.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\Api_project\App.DAL\obj\Debug\net6.0\ref\App.DAL.dll
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.deps.json
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.runtimeconfig.json
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\bin\Debug\net6.0\App.CORE.dll
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.dll
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\refint\App.DAL.dll
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.pdb
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.genruntimeconfig.cache
+C:\Users\User\Desktop\Repos\Udemy\App.DAL\obj\Debug\net6.0\ref\App.DAL.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.deps.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.runtimeconfig.json
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CopyComplete
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\refint\App.DAL.dll
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\App.DAL.genruntimeconfig.cache
+C:\Users\II novbe\Desktop\New folder (4)\Udemy\App.DAL\obj\Debug\net6.0\ref\App.DAL.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\bin\Debug\net6.0\App.DAL.deps.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\bin\Debug\net6.0\App.DAL.runtimeconfig.json
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\bin\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\bin\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\bin\Debug\net6.0\App.CORE.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\bin\Debug\net6.0\App.CORE.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.csproj.AssemblyReference.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfoInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.AssemblyInfo.cs
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.csproj.CopyComplete
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\refint\App.DAL.dll
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.pdb
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\App.DAL.genruntimeconfig.cache
+C:\Users\II novbe\Source\Repos\UdemyRegister\App.DAL\obj\Debug\net6.0\ref\App.DAL.dll

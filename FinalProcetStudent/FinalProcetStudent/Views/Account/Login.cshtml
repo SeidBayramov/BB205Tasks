@@ -1,0 +1,38 @@
+﻿@model FinalProcetStudent.ViewModel.LoginVm
+
+<main class="page-section inner-page-sec-padding-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-6 col-lg-6 mx-auto d-flex align-items-center justify-content-center">
+                <form method="post" class="login-form">
+                    <h4 class="login-title">Login</h4>
+                    <div class="form-group">
+                        <label asp-for="UserNameorEmail">Username Or Email</label>
+                        <input asp-for="UserNameorEmail" class="form-control" type="text" id="userNameOrEmail"
+                               placeholder="Enter your username or email" />
+                        <span asp-validation-for="UserNameorEmail" style="color:red"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Password">Password</label>
+                        <input asp-for="Password" class="form-control" id="password" type="password" placeholder="Enter your password" />
+                        <span asp-validation-for="Password" style="color:red"></span>
+                    </div>
+
+                    <div class="form-group form-check">
+                        <input asp-for="RememberMe" class="form-check-input" id="rememberMe" />
+                        <label asp-for="RememberMe" class="form-check-label" for="rememberMe">Remember me</label>
+                    </div>
+
+                    <div class="form-group">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                    </div>
+
+                    <div class="form-group">
+                        <button asp-action="Login" type="submit" asp-controller="Account" class="btn btn-primary">Login</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</main>

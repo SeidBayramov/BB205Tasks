@@ -1,0 +1,10 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using ProiniaSite.DAL;
+ global using ProiniaSite.Service;
+ global using Microsoft.AspNetCore.Mvc;
+global using ProiniaSite.Models;
+global using ProiniaSite.ViewModel;
+global using System.Threading.Tasks;
+ global using ProiniaSite.Areas.Manage.ViewModels.Product;
+global using ProiniaSite.Helpers;
+ global using Microsoft.Build.Framework;

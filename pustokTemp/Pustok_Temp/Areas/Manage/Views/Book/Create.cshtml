@@ -1,0 +1,30 @@
+﻿@using Pustok_Temp.Models;
+@model Book
+<div class="container">
+    <form method="post" enctype="multipart/form-data">
+        <div class="row">
+            <div class="mb-3 col-md-3">
+                <label asp-for="Title" class="form-label">Title</label>
+                <input asp-for="Title" class="form-control">
+                <span asp-validation-for="Title" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Price" class="form-label">Price</label>
+                <input asp-for="Price" class="form-control">
+                <span asp-validation-for="Price" style="color:red"></span>
+            </div>
+            <div class="mb-3 col-md-3">
+                <label asp-for="Authors.Name" class="form-label">Authors Name</label>
+                <input asp-for="Authors.Name" class="form-control">
+                <span asp-validation-for="Authors.Name" style="color:red"></span>
+            </div>
+
+            <div class="mb-3 col-md-3">
+                <label asp-for="ImageFile" class="form-label">Image File</label>
+                <input asp-for="ImageFile" class=" form-control">
+                <span asp-validation-for="ImageFile" style="color:red"></span>
+            </div>
+
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+</div>

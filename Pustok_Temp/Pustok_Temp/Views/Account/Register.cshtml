@@ -1,0 +1,46 @@
+﻿@model RegisterVm
+
+<main class="page-section inner-page-sec-padding-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-xs-12 col-lg-6 mb--30 mb-lg--0">
+                <form method="post">
+                    <div class="login-form">
+                        <h4 class="login-title">New Customer</h4>
+                        <p><span class="font-weight-bold">I am a new customer</span></p>
+                        <div class="row">
+                            <div class="col-md-12 col-12 mb--15">
+                                <label asp-for="FullName">Full Name</label>
+                                <input asp-for="FullName" class="mb-0 form-control" type="text" id="name"
+                                       placeholder="Enter your full name">
+                            </div>
+                            <div class="col-md-12 col-12 mb--15">
+                                <label asp-for="UserName">User Name</label>
+                                <input asp-for="UserName" class="mb-0 form-control" type="text" id="name"
+                                       placeholder="Enter your username">
+                            </div>
+                            <div class="col-12 mb--20">
+                                <label asp-for="Email">Email</label>
+                                <input asp-for="Email" class="mb-0 form-control" type="email" id="email" placeholder="Enter Your Email Address Here..">
+                            </div>
+                            <div class="col-lg-6 mb--20">
+                                <label asp-for="Password">Password</label>
+                                <input asp-for="Password" class="mb-0 form-control" type="password" id="password" placeholder="Enter your password">
+                            </div>
+                            <div class="col-lg-6 mb--20">
+                                <label asp-for="ConfirmPassword">Repeat Password</label>
+                                <input asp-for="ConfirmPassword" class="mb-0 form-control" type="password" id="repeat-password" placeholder="Repeat your password">
+                            </div>
+                            <div class="col-lg-6 mb--20" asp-validation-summary="All">
+                            </div>
+                            <div class="col-md-12">
+                              <button asp-action="Register" asp-controller="Account" class="btn btn--primary" type="submit">Register</button>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+        </div>
+    </div>
+</main>
